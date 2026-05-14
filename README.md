@@ -27,6 +27,16 @@ struct Ferhan {
 Vodafone → Getir → N11 → THY
 ```
 
+### › Skills
+
+```
+core    Swift · SwiftUI · UIKit · Combine · async/await
+arch    MVVM-C · VIPER · Clean Architecture · SOLID · DI
+tools   SnapKit · RxSwift · XCTest · UI Testing
+ci/cd   Jenkins · Fastlane · SwiftPM
+exp     Vapor · NestJS
+```
+
 ### › Stats
 
 <a href="https://github.com/akkanferhan">
