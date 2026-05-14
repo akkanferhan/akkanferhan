@@ -36,6 +36,13 @@ Vodafone → Getir → N11 → THY
   <img src="https://streak-stats.demolab.com/?user=akkanferhan&theme=transparent&hide_border=true" alt="streak" />
 </a>
 
+### › Writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[See all on Medium →](https://medium.com/@ferhanakkan)
+
 ### › Reach Me
 
 [Portfolio](https://ferhan-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ferhanakkan/) · [Medium](https://medium.com/@ferhanakkan) · ferhanakkan@gmail.com
