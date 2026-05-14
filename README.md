@@ -30,9 +30,6 @@ Vodafone → Getir → N11 → THY
 ### › Stats
 
 <a href="https://github.com/akkanferhan">
-  <img src="https://github-readme-stats.vercel.app/api?username=akkanferhan&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="stats" />
-</a>
-<a href="https://github.com/akkanferhan">
   <img src="https://streak-stats.demolab.com/?user=akkanferhan&theme=transparent&hide_border=true" alt="streak" />
 </a>
 
