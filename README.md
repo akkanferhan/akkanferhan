@@ -14,6 +14,7 @@ struct Ferhan {
 | [**HomerNetwork**](https://github.com/akkanferhan/HomerNetwork) | async/await networking |
 | [**HomerUIKit**](https://github.com/akkanferhan/HomerUIKit) | Design tokens & extensions |
 | [**HomerImageProvider**](https://github.com/akkanferhan/HomerImageProvider) | Async image loading |
+| [**GitScribe**](https://github.com/akkanferhan/GitScribe) | Git commit message generator |
 
 ### › Also Mine
 
